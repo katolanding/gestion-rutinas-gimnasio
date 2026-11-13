@@ -1,0 +1,11 @@
+# NetBeans / Ant
+build/
+dist/
+nbproject/private/
+
+# Driver JDBC (se descarga aparte, ver lib/README.md)
+lib/*.jar
+
+# Informes o datos locales
+*.log
+.env
