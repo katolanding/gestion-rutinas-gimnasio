@@ -2,7 +2,7 @@
 
 Aplicación de escritorio en **Java Swing** que carga ejercicios desde **MySQL** (o desde un CSV) y genera rutinas personalizadas para clientes de un gimnasio.
 
-> Proyecto académico en equipo (Paradigmas de Programación, Universidad Andrés Bello, 2026). Mi parte fue la ventana de generación de rutinas (`VentanaGeneracion`). Los datos incluidos son ficticios.
+> Proyecto académico en equipo (Paradigmas de Programación, Universidad Andrés Bello, 2026). Mi parte: backend (lógica, patrón Observer y conexión MySQL) y la ventana de generación de rutinas; el equipo diseñó las demás ventanas.
 
 ## Qué hace
 
